@@ -1,0 +1,91 @@
+/* **************************************
+This is Styling for the Header Section
+************************************** */
+header img{
+  width: 100%;
+  height: 400px;
+}
+
+.content{
+  width: 98%;
+  margin: 0 auto;
+}
+
+.bottom, .info, .profile_pic{
+  display: flex;
+}
+
+.info{
+  clear: both;
+}
+
+.profile_pic{
+  align-items: flex-end;
+}
+
+
+/* **********************************************
+This is Styling for the Bottom Section Left Side
+************************************** ***********/
+
+.left_column{
+  margin-top: -80px;
+}
+
+.profile_pic img{
+  height: 200px;
+  float: left;
+  }
+
+  a {
+    text-decoration: none;
+    }
+
+ul {
+   width: 100%;
+   text-align: left;
+   padding: 1px;
+ }
+
+  li{
+    List-style-type: none;
+    }
+
+.website_title{
+  padding-left: 77px;
+  padding-bottom: 20px;
+}
+
+.bio_paragraph{
+  width: 68%;
+}
+
+.work_experience{
+  text-align: left;
+}
+
+.education{
+
+}
+
+.social{
+  background-color: pink;
+  width: 145%;
+  height: 50px;
+  margin-left: -17px;
+  display: inline-block
+}
+
+
+    /* **********************************************
+    This is Styling for the Bottom Right Side
+    *************************************************/
+
+    .right_column{
+    }
+
+  .video{
+    border: solid black;
+    height: 350px;
+    width: 400px;
+  }

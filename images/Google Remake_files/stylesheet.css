@@ -1,0 +1,159 @@
+body {
+  background-color: #4f7ea3;
+
+}
+
+.top_section_right_side{
+  display: flex;
+
+}
+
+.container{
+  width: 90%;
+  margin: 0 auto 10;
+  background-color: white;
+}
+
+
+
+
+
+
+/* ****************************************
+Everything below here is the top section
+**************************************** */
+.top_section{
+  display: flex;
+  height: 57px;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+}
+
+.google_logo{
+  height: 57px;
+}
+
+
+.search_box{
+  color: grey;
+  height: 57px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-right: 200px;
+
+}
+
+.number_square{
+  height: 57px;
+  color: white;
+
+}
+
+.number_square p{
+    background-color: #db4633;
+    padding: 2px 8px;
+}
+
+.email{
+  height: 57px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+.six_squares{
+  height: 57px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+
+.six_squares img{
+  height: 30px;
+}
+
+.gplus_logo{
+  height: 57px;
+  padding-left: 47px;
+  padding-top: 0px;
+}
+
+
+
+/* **************************************************
+everything below here is the bottom section
+************************************************** */
+
+.bottom_section{
+  display: flex;
+}
+
+
+
+
+/* ************************************************
+everything below here is the bottow left section
+************************************************ */
+.bottom_left{
+  background-color: black;
+}
+
+.bl_top_custom, .bl_middle_white_font, .bl_bottom_white_font{
+  color: white;
+}
+
+.bl_top_title, .bl_top_grey_font, .bl_middle_title, .bl_middle_grey_font, .bl_bottom_grey_font {
+  color: grey;
+}
+
+
+
+
+
+
+
+
+
+/* **************************************************
+everything below here is the bottom middle section
+************************************************** */
+
+h1 {
+  color: #aac8e1;
+}
+
+.paragraphs{
+  padding-left: 204px;
+}
+
+.paragraphs p{
+  padding-left: 100px
+}
+
+
+
+
+
+/* ***************************************************
+everything below here is the bottom right section
+*************************************************** */
+
+.large_photo {
+    width: 315px;
+    height: 146px;
+    overflow: hidden;
+}
+
+.large_photo img{
+  height: auto;
+  width: 316px;
+}
+
+
+.small_photos img{
+  height: 39px;
+  width: 79px;
+}
+
+.small_photos{
+  display: flex;
+
+}
